@@ -105,6 +105,3 @@ If you use this code or data, please cite:
 Wang, J., Davidson, R., and Nozick, L. (n.d.). An optimization-based approach to developing computationally efficient long-term event–loss scenario ensembles. Manuscript under review.
 ```
 
-
-
-```
